@@ -1,5 +1,5 @@
 1:"$Sreact.fragment"
-2:I[79730,["/_next/static/chunks/d6fdd25384ec2a2a.js","/_next/static/chunks/64fbf08548957496.js","/_next/static/chunks/795f2c02d6669ea0.js"],"TopicPage"]
+2:I[79730,["/_next/static/chunks/d6fdd25384ec2a2a.js","/_next/static/chunks/976c8b04ce0ae495.js","/_next/static/chunks/795f2c02d6669ea0.js"],"TopicPage"]
 8:I[59374,["/_next/static/chunks/c835ef42487ce2c8.js","/_next/static/chunks/f19e4129d752cb5c.js"],"OutletBoundary"]
 9:"$Sreact.suspense"
 3:T15fa,
@@ -86,9 +86,9 @@ When [Bábá](#term:Baba) held discourses, every participant felt they were tail
 
 The depth and breadth of [Ánanda Márga](#term:AnandaMarga) philosophy consists of [Bábá](#term:Baba)'s exceptional knowledge of both the Universe and its history.
 There is no speculation or assumption, it stands solely on the word of a true Guru.
-0:{"buildId":"KtGf8NKLmunDB4-9hrK-W","rsc":["$","$1","c",{"children":[["$","$L2",null,{"topic":{"slug":"mission","published":true,"title":"The Mission","subtitle":"Self-Realization & Service to the Universe","description":"How Ánanda Márga transforms spiritual practice into active social service. The global welfare mission of Ánanda Márga Pracáraka Saḿgha."},"content":"$3","gradient":"from-orange-700/70","backHref":"/#introduction","imageSrc":"/media/introduction/mission.webp","prev":{"href":"/introduction/morality","title":"Morality","subtitle":"Non-harm & Welfare","description":"Not harming harmless beings, serving all beings, and ever-deepening the link to the Supreme Consciousness.","slug":"morality","section":"introduction","image":"/media/introduction/morality.webp","gradient":"from-red-600/70"}}],["$L4","$L5","$L6"],"$L7"]}],"loading":null,"isPartial":false}
+0:{"buildId":"ICr3mi4z6-H-f3f_b95FI","rsc":["$","$1","c",{"children":[["$","$L2",null,{"topic":{"slug":"mission","published":true,"title":"The Mission","subtitle":"Self-Realization & Service to the Universe","description":"How Ánanda Márga transforms spiritual practice into active social service. The global welfare mission of Ánanda Márga Pracáraka Saḿgha."},"content":"$3","gradient":"from-orange-700/70","backHref":"/#introduction","imageSrc":"/media/introduction/mission.webp","prev":{"href":"/introduction/morality","title":"Morality","subtitle":"Non-harm & Welfare","description":"Not harming harmless beings, serving all beings, and ever-deepening the link to the Supreme Consciousness.","slug":"morality","section":"introduction","image":"/media/introduction/morality.webp","gradient":"from-red-600/70"}}],["$L4","$L5","$L6"],"$L7"]}],"loading":null,"isPartial":false}
 4:["$","script","script-0",{"src":"/_next/static/chunks/d6fdd25384ec2a2a.js","async":true}]
-5:["$","script","script-1",{"src":"/_next/static/chunks/64fbf08548957496.js","async":true}]
+5:["$","script","script-1",{"src":"/_next/static/chunks/976c8b04ce0ae495.js","async":true}]
 6:["$","script","script-2",{"src":"/_next/static/chunks/795f2c02d6669ea0.js","async":true}]
 7:["$","$L8",null,{"children":["$","$9",null,{"name":"Next.MetadataOutlet","children":"$@a"}]}]
 a:null
