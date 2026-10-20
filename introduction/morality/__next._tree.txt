@@ -1,0 +1,6 @@
+:HL["/_next/static/chunks/fd29af4e08339cfb.css","style"]
+:HL["/_next/static/media/2a65768255d6b625-s.p.d19752fb.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/5c285b27cdda1fe8-s.p.a62025f2.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/83afe278b6a6bb3c-s.p.3a6ba036.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/media/med4.jpg","image"]
+0:{"buildId":"KtGf8NKLmunDB4-9hrK-W","tree":{"name":"","paramType":null,"paramKey":"","hasRuntimePrefetch":false,"slots":{"children":{"name":"(topics)","paramType":null,"paramKey":"(topics)","hasRuntimePrefetch":false,"slots":{"children":{"name":"section","paramType":"d","paramKey":"introduction","hasRuntimePrefetch":false,"slots":{"children":{"name":"slug","paramType":"d","paramKey":"morality","hasRuntimePrefetch":false,"slots":{"children":{"name":"__PAGE__","paramType":null,"paramKey":"__PAGE__","hasRuntimePrefetch":false,"slots":null,"isRootLayout":false}},"isRootLayout":false}},"isRootLayout":false}},"isRootLayout":false}},"isRootLayout":true},"staleTime":300}

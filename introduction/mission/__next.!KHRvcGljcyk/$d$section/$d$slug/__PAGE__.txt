@@ -1,0 +1,94 @@
+1:"$Sreact.fragment"
+2:I[79730,["/_next/static/chunks/d6fdd25384ec2a2a.js","/_next/static/chunks/64fbf08548957496.js","/_next/static/chunks/795f2c02d6669ea0.js"],"TopicPage"]
+8:I[59374,["/_next/static/chunks/c835ef42487ce2c8.js","/_next/static/chunks/f19e4129d752cb5c.js"],"OutletBoundary"]
+9:"$Sreact.suspense"
+3:T15fa,
+# [Ánanda Márga](#term:AnandaMarga) Meaning
+[Ánanda Márga](#term:AnandaMarga) means *the path of bliss*.
+Ánanda is defined as bliss, and further explained as *infinite happiness*.
+The path of bliss is a path where you get to experience true happiness by getting to know, and live by, your true nature — [dharma](/introduction/dharma).
+
+# Motto
+The mission, as well as motto, of [Ánanda Márga](#term:AnandaMarga) is:
+> [átmamokśárthaḿ Jagat hitáya ca](#term:atmamoksarthamJagaddhitayaCa)
+>
+> – Self-realization and service to the Universe.
+
+Selfless service is vital for spiritual practice, just as spiritual practice is essential for true social service.
+
+# Self-Realization
+The spiritual aspect of the mission is [átmamokśarthaḿ](#term:atmamoksartham), or self-realization.
+It means to realize your fullest potential, not just as a human being, but as a divine being.
+
+Self-realization is the ultimate goal of spirituality, which means to get to know yourself on the deepermost level of who you are.
+
+A more literal translation of [átmamokśarthaḿ](#term:atmamoksartham) is the complete and permanent liberation of the soul.
+As the soul is liberated from worldly attachments, the desire for God increases.
+God comes closer and closer to the practitioner, through more intense spiritual practice, until there is no distinction between the personal self and God.
+There is no selfishness or petty ego left.
+Only pure divinity, complete consciousness.
+
+Hence, the end goal of [Ánanda Márga](#term:AnandaMarga) is very clear and precise.
+The process is also explained in very exact detail.
+
+Self-realization is the goal of [Tantra](#term:Tantra), as well as of [Yoga](#term:Yoga).
+For [Ánanda Márga](#term:AnandaMarga), it is also the essence of all teachings, both spiritual and social.
+
+Read more about the spiritual practice on the [Tantra Yoga](/introduction/tantra-yoga) page.
+
+
+# Service
+Selfless service, or [seva](#term:seva), takes many forms.
+It encompasses everything from protecting ecosystems to providing all beings with basic needs such as food and healthcare.
+For humans, this extends to offering clothing, housing and education, as well as spiritual guidance and training.
+Innovation and art are also forms of service, as long as they are guided by welfare.
+
+Historically, [seva](#term:seva) is strongly associated with [Bhakti Yoga](#term:BhaktiYoga), but it also holds an important place in Tantra.
+
+According to [Ánanda Márga](#term:AnandaMarga), [seva](#term:seva) is understood as loving service to God.
+It is a vital part of spirituality that should not be neglected.
+
+Most spiritual paths include a philosophy and practice, together with benevolence as a key feature.
+Yet, research indicates that the majority seldom engage in hands-on volunteering, despite what their philosophy advocates.
+Furthermore, the vast majority of financial donations do not fund charitable work.
+Instead, they normally go to running the religious organization itself.
+
+[Ánanda Márga](#term:AnandaMarga) views service as more than an ideal.
+[Ánanda Márga](#term:AnandaMarga) envisions actively practiced benevolence as foundational across all aspects of society, including education, arts, science, economy, politics, and different expressions of culture.
+Therefore, [Ánanda Márga](#term:AnandaMarga) is often described as socio-spiritual.
+
+[Ánanda Márga Pracáraka Saḿgha](#term:AnandaMargaPracarakaSamgha) certiainly puts service into practice around the world.
+
+# A World Family
+[Ánanda Márga](#term:AnandaMarga) does not have a we-against-them point of view.
+Instead, we are a global family where every person has equal rights and opportunities to thrive.
+Criminals should be given the opportunity to redeem themselves.
+
+# The Organization
+[Ánanda Márga Pracáraka Saḿgha](https://www.anandamarga.org) is an international socio-spiritual organization, based on the philosophy and practices of [Ánanda Márga](#term:AnandaMarga).
+Globally, the organization runs numerous orphanages, schools and medical clinics, free for those in need.
+
+For decades, the sister organizations [AMURT](https://www.amurt.org) and [AMURTEL](https://amurtel.org) have provided community development, food distribution,
+as well as social and mental support, alongside relief for disasters like earthquakes, floods, and refugee crises.
+
+[Ánanda Márga Pracáraka Saḿgha](#term:AnandaMargaPracarakaSamgha) also runs Yoga centers, self-sufficient and sustainable ecovillages, and welfare centers around the world.
+
+At the core of the organizations there are [ácárya](#term:acarya)s and [sanyásii](#term:sanyasii)s,
+nuns and monks who serve as meditation teachers and dedicate their lives for the mission of [Ánanda Márga](#term:AnandaMarga).
+
+# Guru
+The philosophy and practices of [Ánanda Márga](#term:AnandaMarga) are created by the [Guru](#term:Guru) [Shrii Shrii Ánandamúrti](#term:ShriiShriiAnandamurti)ji (21 May 1921 - 21 October 1990), affectionately called [Bábá](#term:Baba).
+
+Those who met [Bábá](#term:Baba) in person would often describe it as the most powerful experience of their lives.
+He would reveal precise details about people's past, knowing things nobody else could possibly know.
+
+When [Bábá](#term:Baba) held discourses, every participant felt they were tailored specifically for them individually.
+
+The depth and breadth of [Ánanda Márga](#term:AnandaMarga) philosophy consists of [Bábá](#term:Baba)'s exceptional knowledge of both the Universe and its history.
+There is no speculation or assumption, it stands solely on the word of a true Guru.
+0:{"buildId":"KtGf8NKLmunDB4-9hrK-W","rsc":["$","$1","c",{"children":[["$","$L2",null,{"topic":{"slug":"mission","published":true,"title":"The Mission","subtitle":"Self-Realization & Service to the Universe","description":"How Ánanda Márga transforms spiritual practice into active social service. The global welfare mission of Ánanda Márga Pracáraka Saḿgha."},"content":"$3","gradient":"from-orange-700/70","backHref":"/#introduction","imageSrc":"/media/introduction/mission.webp","prev":{"href":"/introduction/morality","title":"Morality","subtitle":"Non-harm & Welfare","description":"Not harming harmless beings, serving all beings, and ever-deepening the link to the Supreme Consciousness.","slug":"morality","section":"introduction","image":"/media/introduction/morality.webp","gradient":"from-red-600/70"}}],["$L4","$L5","$L6"],"$L7"]}],"loading":null,"isPartial":false}
+4:["$","script","script-0",{"src":"/_next/static/chunks/d6fdd25384ec2a2a.js","async":true}]
+5:["$","script","script-1",{"src":"/_next/static/chunks/64fbf08548957496.js","async":true}]
+6:["$","script","script-2",{"src":"/_next/static/chunks/795f2c02d6669ea0.js","async":true}]
+7:["$","$L8",null,{"children":["$","$9",null,{"name":"Next.MetadataOutlet","children":"$@a"}]}]
+a:null

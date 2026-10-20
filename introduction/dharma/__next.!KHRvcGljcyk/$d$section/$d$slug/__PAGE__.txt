@@ -1,0 +1,86 @@
+1:"$Sreact.fragment"
+2:I[79730,["/_next/static/chunks/d6fdd25384ec2a2a.js","/_next/static/chunks/64fbf08548957496.js","/_next/static/chunks/795f2c02d6669ea0.js"],"TopicPage"]
+8:I[59374,["/_next/static/chunks/c835ef42487ce2c8.js","/_next/static/chunks/f19e4129d752cb5c.js"],"OutletBoundary"]
+9:"$Sreact.suspense"
+3:T11f8,
+# A Healthy Lifestyle
+For plants and animals to thrive, they need nourishment that is appropriate for their nature.
+It's the same with human beings.
+
+Food, however, is only one part of the picture.
+A being also thrives because of its environment, lifestyle, and other aspects of the conditions in which it lives,
+whether it is a plant, an animal, or a human being.
+Animals in zoos do not thrive.
+Neither do human beings when they live in ways that are contrary to their true nature.
+
+[Ánanda Márga](#term:AnandaMarga) defines [dharma](#term:dharma) as the true nature or essential characteristic of something.
+The [dharma](#term:dharma) of fire is to burn. 
+You can change the color of fire, but you cannot change its principle of burning.
+In this sense, [dharma](#term:dharma) is our true and unchangeable nature as human beings.
+
+Hunger arises when we need to eat.
+We are naturally wired to know when to eat.
+If we eat healthy food when we are hungry, our bodies respond positively.
+This indiciates that living in accordance with our true nature means leading a healthy lifestyle.
+
+Just as we feel hunger, human beings have a natural longing for happiness.
+We are wired to long for it.
+Just as hunger tells us that we need food, the longing for happiness is an inner indication that we are searching for something essential to our nature.
+
+> « Everyone desires happiness: that is the innate characteristic of all living beings. Such a quality should always be cultivated carefully by each and every living entity. »
+>
+> [Shrii Prabhát Raiṋjan Sarkár](#term:ShriiPrabhatRainjanSarkar), 1979
+
+# An Imposed Lifestyle
+Some people say that the nature of human beings is greed and destruction. But is that really your nature?
+
+During the 1900s, scientists discovered that adding more salt and sugar to foods than what a healthy diet requires makes people consume more.
+This contributed to the rise of a billion-dollar industry imposing these foods on society through pervasive advertising.
+Lifestyle-related diseases are now among the leading causes of death worldwide.
+
+This does not mean that overconsumption of sugar and salt, or the lifestyle-related diseases that result from it, is natural to human beings.
+Instead, it shows that vested interests and economic systems can cause great harm.
+
+The fact that a behavior is widespread does not mean it represents true human nature.
+It may simply be the result of the environment people are placed in.
+
+It is rare for children in society to be taught to take responsibility for their peers, other beings, and the environment.
+So perhaps it is not surprising that destructive behavior is so common?
+
+# The Thirst for Infinity
+When it comes to greed, on the other hand, it is not human nature itself, but a misdirection of it.
+
+If you met a genie who granted you three wishes, what would you wish for?
+Money? Power? Love?
+Most of us would probably wish for more wishes.
+Because it is our nature to long for Infinity.
+
+However, no amount of money or power can ever be infinite.
+Even love, when directed toward specific persons or objects, remains limited and conditional.
+Those things can simply not satisfy us.
+
+The [Supreme Consciousness](#term:SupremeConsciousness), however, is Love that is not limited by conditions.
+It is [Infinity](#term:Infinity) itself.
+The only way to attain Infinity is through [spiritual practice](#term:spiritualPractice).
+
+Therefore, spirituality is an essential aspect of human nature.
+This means taking care of not only the body and mind, but also the soul.
+Just as we can have a healthy body and mind, it is also healthy to embrace spirituality.
+
+[Ánanda Márga](#term:AnandaMarga) is not only a spiritual path, but also a complete lifestyle system which includes collective life forming a healthy society.
+Rooted in [dharma](#term:dharma) throughout its philosophy, it provides a profound and precise framework for discovering and aligning with our true nature.
+
+# Dharma in Yoga & Tantra
+The word [dharma](#term:dharma) has been understood and used in many different contexts throughout history.
+In [Tantra](#term:Tantra), [Yoga](#term:Yoga), Vedanta, Samkhya, Buddhism, Jainism, Sikhism, and other Indian philosophical and spiritual paths, it often refers to the principles, practices, and way of life that align an individual with a deeper truth or order of existence.
+
+
+# Further Reading
+The book [Ananda Marga Elementary Philosophy](https://anandamargabooks.com/portfolio/am-elementary-philosophy/) by [Shrii Shrii Ánandamúrti](#term:ShriiShriiAnandamurti) has a more in-depth explanation of *dharma*.
+
+0:{"buildId":"KtGf8NKLmunDB4-9hrK-W","rsc":["$","$1","c",{"children":[["$","$L2",null,{"topic":{"slug":"dharma","published":true,"title":"Human Nature","subtitle":"Dharma","description":"The difference between a healthy lifestyle and an imposed one, and how it relates to the thirst for Infinity."},"content":"$3","gradient":"from-rose-700/70","backHref":"/#introduction","imageSrc":"/media/introduction/dharma.webp","next":{"href":"/introduction/supreme-consciousness","title":"The Supreme Consciousness","subtitle":"Parama Puruśa","description":"God, the Universe, and the Supreme Consciousness-Energy Source of the Universe, and the principles behind creation, evolution, and the path of yoga.","slug":"supreme-consciousness","section":"introduction","image":"/media/introduction/supreme-consciousness.webp","gradient":"from-red-700/70"}}],["$L4","$L5","$L6"],"$L7"]}],"loading":null,"isPartial":false}
+4:["$","script","script-0",{"src":"/_next/static/chunks/d6fdd25384ec2a2a.js","async":true}]
+5:["$","script","script-1",{"src":"/_next/static/chunks/64fbf08548957496.js","async":true}]
+6:["$","script","script-2",{"src":"/_next/static/chunks/795f2c02d6669ea0.js","async":true}]
+7:["$","$L8",null,{"children":["$","$9",null,{"name":"Next.MetadataOutlet","children":"$@a"}]}]
+a:null

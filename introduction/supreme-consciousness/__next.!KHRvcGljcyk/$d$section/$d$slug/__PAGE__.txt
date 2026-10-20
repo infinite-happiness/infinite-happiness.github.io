@@ -1,0 +1,72 @@
+1:"$Sreact.fragment"
+2:I[79730,["/_next/static/chunks/d6fdd25384ec2a2a.js","/_next/static/chunks/64fbf08548957496.js","/_next/static/chunks/795f2c02d6669ea0.js"],"TopicPage"]
+8:I[59374,["/_next/static/chunks/c835ef42487ce2c8.js","/_next/static/chunks/f19e4129d752cb5c.js"],"OutletBoundary"]
+9:"$Sreact.suspense"
+3:T1004,
+# Happiness, Love & Beauty
+We all want to be happy.
+But what is happiness, really?
+
+It's not that easy to define what happiness is.
+Yet we all long for it.
+Why?
+
+[Ánanda Márga](#term:AnandaMarga) says it is human nature to look for happiness.
+In our attempts to find happiness, we often look for it through to love, beauty or wisdom.
+
+If you think of longing for happiness as actually longing for God — love, beauty and wisdom are different intuitive glimpses of God.
+In other words, if you have a powerful idea or a fulfilling experience of love, beauty or wisdom — it is a notion of God.
+Oftentimes, we think of the person, place or object that gave rise to that experience as its source.
+If you think of the source as being God instead, you are beginning to understand human nature — [dharma](/introduction/dharma).
+
+This also means that God is more beautiful than any beauty we can think of,
+a greater love than we can ever imagine,
+and a deeper wisdom than any conception of knowledge.
+
+The experience of God is called [ánanda](#term:ananda) — infinite happiness.
+
+# Consciousness & Energy
+[Ánanda Márga](#term:AnandaMarga) is a monotheistic philosophy that uses different names to describe different aspects of the same Cosmic Entity.
+
+Cosmic [Consciousness](#term:Consciousness) is the Cognitive Principle.
+Cosmic [Energy](#term:Energy) is the Operative Principle.
+Although these principles are sometimes described as two distinct entities for the sake of explanation, they are ultimately inseparable aspects of the one and only [Brahma](#term:Brahma).
+
+[Brahma](#term:Brahma) is God, the Generator Operator Destroyer, the Cosmic Entity.
+In [Ánanda Márga](#term:AnandaMarga) philosophy God is often referred to as the [Supreme Consciousness](#term:SupremeConsciousness), or [Parama Puruśa](#term:ParamaPurusa).
+
+Everything in the Universe is an expression of Brahma.
+Mind is subtle, and matter is crude.
+Therefore, mind has more consciousness, and less energy.
+Matter has less consciousness, and more energy.
+Since matter has more energy, more attributes are expressed, such as sound, touch, form, taste and smell.
+Still, everything has both consciousness and energy, but in varying degrees.
+
+There are two phases of creation.
+The first phase is from subtle to crude.
+In the first phase, Consciousness is influenced by Energy to create the Cosmic Mind. 
+Then Consciousness is influenced to a greater extent, creating the physical world.
+
+The second phase is from crude to subtle.
+It is the phase of evolution, in which consciousness in less developed life forms evolves into more developed life forms through reincarnation.
+Consciousness evolves into human beings who ultimately reach the highest spiritual goal of [Yoga](#term:Yoga), becoming one with the [Supreme Consciousness](#term:SupremeConsciousness).
+
+# Devotion
+The spiritual practice of [Ánanda Márga](#term:AnandaMarga) is to constantly focus on [Brahma](#term:Brahma).
+In everyday life, the spiritual practice is to perform actions in service of [Brahma](#term:Brahma).
+In meditation [Brahma](#term:Brahma) is the main focus.
+
+This focus is called God-centered spirituality, or devotion. The Sanskrit word for devotion is [bhakti](#term:bhakti).
+
+All practices of [Ánanda Márga](#term:AnandaMarga) are for the sake of attaining [Yoga](#term:Yoga), becoming one with [Brahma](#term:Brahma).
+
+# Further Reading
+The book [Ananda Marga Elementary Philosophy](https://anandamargabooks.com/portfolio/am-elementary-philosophy/) by [Shrii Shrii Ánandamúrti](#term:ShriiShriiAnandamurti) has a more in-depth explanation of the [Supreme Consciousness](#term:SupremeConsciousness) and its relation to humanity.
+
+The books [Ananda Sutram](https://anandamargabooks.com/portfolio/ananda-sutram/) by [Shrii Shrii Ánandamúrti](#term:ShriiShriiAnandamurti) and [Idea and Ideology](https://anandamargabooks.com/portfolio/idea-and-ideology/) by [Shrii Prabhát Raiṋjan Sarkár](#term:ShriiPrabhatRainjanSarkar) have even deeper explanations of the [Supreme Consciousness](#term:SupremeConsciousness) and the Universe.
+0:{"buildId":"KtGf8NKLmunDB4-9hrK-W","rsc":["$","$1","c",{"children":[["$","$L2",null,{"topic":{"slug":"supreme-consciousness","published":true,"title":"The Supreme Consciousness","subtitle":"Parama Puruśa","description":"God, the Universe, and the Supreme Consciousness-Energy Source of the Universe, and the principles behind creation, evolution, and the path of yoga."},"content":"$3","gradient":"from-red-700/70","backHref":"/#introduction","imageSrc":"/media/introduction/supreme-consciousness.webp","prev":{"href":"/introduction/dharma","title":"Human Nature","subtitle":"Dharma","description":"The difference between a healthy lifestyle and an imposed one, and how it relates to the thirst for Infinity.","slug":"dharma","section":"introduction","image":"/media/introduction/dharma.webp","gradient":"from-rose-700/70"},"next":{"href":"/introduction/morality","title":"Morality","subtitle":"Non-harm & Welfare","description":"Not harming harmless beings, serving all beings, and ever-deepening the link to the Supreme Consciousness.","slug":"morality","section":"introduction","image":"/media/introduction/morality.webp","gradient":"from-red-600/70"}}],["$L4","$L5","$L6"],"$L7"]}],"loading":null,"isPartial":false}
+4:["$","script","script-0",{"src":"/_next/static/chunks/d6fdd25384ec2a2a.js","async":true}]
+5:["$","script","script-1",{"src":"/_next/static/chunks/64fbf08548957496.js","async":true}]
+6:["$","script","script-2",{"src":"/_next/static/chunks/795f2c02d6669ea0.js","async":true}]
+7:["$","$L8",null,{"children":["$","$9",null,{"name":"Next.MetadataOutlet","children":"$@a"}]}]
+a:null
