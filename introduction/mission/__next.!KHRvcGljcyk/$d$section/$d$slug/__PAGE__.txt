@@ -1,8 +1,8 @@
 1:"$Sreact.fragment"
-2:I[79730,["/_next/static/chunks/d6fdd25384ec2a2a.js","/_next/static/chunks/976c8b04ce0ae495.js","/_next/static/chunks/795f2c02d6669ea0.js"],"TopicPage"]
+2:I[79730,["/_next/static/chunks/d6fdd25384ec2a2a.js","/_next/static/chunks/fdd19aa5de3cb70b.js","/_next/static/chunks/2d5b3b6b61f3c2bb.js"],"TopicPage"]
 8:I[59374,["/_next/static/chunks/c835ef42487ce2c8.js","/_next/static/chunks/f19e4129d752cb5c.js"],"OutletBoundary"]
 9:"$Sreact.suspense"
-3:T15fa,
+3:T1649,
 # [Ánanda Márga](#term:AnandaMarga) Meaning
 [Ánanda Márga](#term:AnandaMarga) means *the path of bliss*.
 Ánanda is defined as bliss, and further explained as *infinite happiness*.
@@ -57,16 +57,17 @@ Instead, they normally go to running the religious organization itself.
 [Ánanda Márga](#term:AnandaMarga) envisions actively practiced benevolence as foundational across all aspects of society, including education, arts, science, economy, politics, and different expressions of culture.
 Therefore, [Ánanda Márga](#term:AnandaMarga) is often described as socio-spiritual.
 
-[Ánanda Márga Pracáraka Saḿgha](#term:AnandaMargaPracarakaSamgha) certiainly puts service into practice around the world.
+The practitioners of [Ánanda Márga](#term:AnandaMarga) certainly put service into practice around the world.
 
 # A World Family
 [Ánanda Márga](#term:AnandaMarga) does not have a we-against-them point of view.
-Instead, we are a global family where every person has equal rights and opportunities to thrive.
-Criminals should be given the opportunity to redeem themselves.
+Instead, humaity and all beings are seen as a global family where every person has equal rights and opportunities to thrive.
+Those who do wrong should be given the opportunity to redeem themselves.
 
 # The Organization
 [Ánanda Márga Pracáraka Saḿgha](https://www.anandamarga.org) is an international socio-spiritual organization, based on the philosophy and practices of [Ánanda Márga](#term:AnandaMarga).
-Globally, the organization runs numerous orphanages, schools and medical clinics, free for those in need.
+It was founded in 1955, and has since grown into a global movement.
+The organization runs numerous orphanages, schools and medical clinics, free for those in need.
 
 For decades, the sister organizations [AMURT](https://www.amurt.org) and [AMURTEL](https://amurtel.org) have provided community development, food distribution,
 as well as social and mental support, alongside relief for disasters like earthquakes, floods, and refugee crises.
@@ -86,9 +87,9 @@ When [Bábá](#term:Baba) held discourses, every participant felt they were tail
 
 The depth and breadth of [Ánanda Márga](#term:AnandaMarga) philosophy consists of [Bábá](#term:Baba)'s exceptional knowledge of both the Universe and its history.
 There is no speculation or assumption, it stands solely on the word of a true Guru.
-0:{"buildId":"RFaLi4FhkNVkGkbfrauHy","rsc":["$","$1","c",{"children":[["$","$L2",null,{"topic":{"slug":"mission","published":true,"title":"The Mission","subtitle":"Self-Realization & Service to the Universe","description":"How Ánanda Márga transforms spiritual practice into active social service. The global welfare mission of Ánanda Márga Pracáraka Saḿgha."},"content":"$3","gradient":"from-orange-700/70","backHref":"/#introduction","imageSrc":"/media/introduction/mission.webp","prev":{"href":"/introduction/morality","title":"Morality","subtitle":"Non-harm & Welfare","description":"Not harming harmless beings, serving all beings, and ever-deepening the link to the Supreme Consciousness.","slug":"morality","section":"introduction","image":"/media/introduction/morality.webp","gradient":"from-red-600/70"}}],["$L4","$L5","$L6"],"$L7"]}],"loading":null,"isPartial":false}
+0:{"buildId":"nucB1QfvcyDTjliFmjYCB","rsc":["$","$1","c",{"children":[["$","$L2",null,{"topic":{"slug":"mission","published":true,"title":"The Mission","subtitle":"Self-Realization & Service to the Universe","description":"How Ánanda Márga transforms spiritual practice into active social service. The global welfare mission of Ánanda Márga Pracáraka Saḿgha."},"content":"$3","gradient":"from-orange-700/70","backHref":"/#introduction","imageSrc":"/media/introduction/mission.webp","prev":{"href":"/introduction/morality","title":"Morality","subtitle":"Non-harm & Welfare","description":"Not harming harmless beings, serving all beings, and ever-deepening the link to the Supreme Consciousness.","slug":"morality","section":"introduction","image":"/media/introduction/morality.webp","gradient":"from-red-600/70"}}],["$L4","$L5","$L6"],"$L7"]}],"loading":null,"isPartial":false}
 4:["$","script","script-0",{"src":"/_next/static/chunks/d6fdd25384ec2a2a.js","async":true}]
-5:["$","script","script-1",{"src":"/_next/static/chunks/976c8b04ce0ae495.js","async":true}]
-6:["$","script","script-2",{"src":"/_next/static/chunks/795f2c02d6669ea0.js","async":true}]
+5:["$","script","script-1",{"src":"/_next/static/chunks/fdd19aa5de3cb70b.js","async":true}]
+6:["$","script","script-2",{"src":"/_next/static/chunks/2d5b3b6b61f3c2bb.js","async":true}]
 7:["$","$L8",null,{"children":["$","$9",null,{"name":"Next.MetadataOutlet","children":"$@a"}]}]
 a:null
